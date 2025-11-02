@@ -1,4 +1,4 @@
-s# Sınıf Tablosu Projesi
+# Sınıf Tablosu Projesi
 
 Bu proje, HTML kullanarak bir sınıf tablosu oluşturmayı amaçlar.
 
@@ -29,8 +29,3 @@ HTML tablo yapısını öğrenmek ve temel CSS stilleri uygulamak.
 -   HTML5
 -   CSS3
 
-
-
-------------------------------------------------------------------------
-
-Hazırlayan: **Öğrenci**
